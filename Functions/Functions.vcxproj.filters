@@ -24,6 +24,9 @@
     <ClInclude Include="..\..\..\..\..\Donald%27s Toy\Documents\GitHub\Functions\Functions\targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Donald%27s Toy\Documents\GitHub\Functions\Functions\allFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\..\Donald%27s Toy\Documents\GitHub\Functions\Functions\stdafx.cpp">

@@ -145,6 +145,7 @@
     <Text Include="..\..\..\..\..\Donald%27s Toy\Documents\GitHub\Functions\Functions\ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\Donald%27s Toy\Documents\GitHub\Functions\Functions\allFunctions.h" />
     <ClInclude Include="..\..\..\..\..\Donald%27s Toy\Documents\GitHub\Functions\Functions\stdafx.h" />
     <ClInclude Include="..\..\..\..\..\Donald%27s Toy\Documents\GitHub\Functions\Functions\targetver.h" />
   </ItemGroup>
